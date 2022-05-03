@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0043b76e-b93b-4034-af78-5d25564049c3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BaiThucHanh0103/BaiThucHanh0103.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiThucHanh2203/BaiThucHanh2203.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiThucHanhChuong2/BaiThucHanhChuong2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baithuchanh2202/baithuchanh2202.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="281L5y38K4oe8raMiBBot3XbVWZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0043b76e-b93b-4034-af78-5d25564049c3" name="Changes" comment="" />
+      <created>1650378969136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650378969136</updated>
+    </task>
+    <servers />
+  </component>
+</project>

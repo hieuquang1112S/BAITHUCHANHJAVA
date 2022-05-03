@@ -1,3 +1,7 @@
+package student;
+
+import student.Student;
+
 public class OnlineStudent extends Student {
     private String username, password;
 
